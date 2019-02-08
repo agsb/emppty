@@ -1,4 +1,6 @@
 
+Empty Planet Simulation
+
 The program simulates population growth hypotheses, using 3 age groups,
 children, adults and elderly, calculating the variations of these 
 groups each generation, using the number of children per couple, 
@@ -12,8 +14,9 @@ children, adults and the elderly, number of children per couple,
 percentage of unmarried adults and percentage of infant mortality 
 are required.
 
-The representation in years for each generation, usually 20 to 25 years,
-is not specific to the algorithm, only the capacity or not of reproduction.
+The representation in years for each generation, usually 20 to 25 years
+or ( < 15, 15 a 65, 65 < ) bands, is not specific to the algorithm, 
+only the capacity or not of reproduction.
 
 Basically, with each generation: The number of children is calculated by 
 multiplying half of adults by the number of children and by the proportion
@@ -31,3 +34,10 @@ with two childrens by couple, 0.30 of unmarried adults and 0.001 of infant morta
 echo "7000 0.43 0.43 0.14 2 0.30 0.001" | emppty > data.csv
 
 spoiller: with .30 unmarried must be a 2.86 childrens per couple rate to survive 3008 generations.
+
+for real factors 
+https://data.worldbank.org/indicator/SP.DYN.TFRT.IN
+https://ourworldindata.org/fertility-rate
+https://www.cia.gov/library/publications/the-world-factbook/rankorder/2127rank.html
+https://www.bbc.com/news/world-39211144
+
