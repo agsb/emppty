@@ -15,7 +15,7 @@ percentage of unmarried adults and percentage of infant mortality
 are required.
 
 The representation in years for each generation, usually 20 to 25 years
-or ( < 15, 15 a 65, 65 < ) bands, is not specific to the algorithm, 
+or group ages( < 15, 15 a 65, 65 < ), is not specific to the algorithm, 
 only the capacity or not of reproduction.
 
 Basically, with each generation: The number of children is calculated by 
