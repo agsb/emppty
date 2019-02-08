@@ -26,7 +26,7 @@ just the simplified demonstration of results.
 
 EXAMPLE:
 for a population of 7000, 0.43 of childrens, 0.43 of adults and 0.14 of elders,
-with two childrens by couple, 0.30 of unmarried adults and 0.0001 of infant adults
+with two childrens by couple, 0.30 of unmarried adults and 0.001 of infant mortality
 
 echo "7000 0.43 0.43 0.14 2 0.30 0.001" | emppty > data.csv
 
