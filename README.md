@@ -30,3 +30,4 @@ with two childrens by couple, 0.30 of unmarried adults and 0.001 of infant morta
 
 echo "7000 0.43 0.43 0.14 2 0.30 0.001" | emppty > data.csv
 
+spoiller: with .30 unmarried must be a 2.86 childrens per couple rate to survive 3008 generations.
